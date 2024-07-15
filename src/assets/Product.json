@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Beats Headphone",
+        "price": "999",
+        "Image": "https://m.media-amazon.com/images/I/61km-4ZNJpL.jpg"
+     },
+     {
+        "id": "2",
+        "name": "Boat Headphone",
+        "price": "899",
+        "Image": "https://www.boat-lifestyle.com/cdn/shop/products/e5881832-36f8-4c1c-a767-10f2c2a55a02_288x.png?v=1685708053"
+     },
+     {
+        "id": "3",
+        "name": "Sennheiser",
+        "price": "799",
+        "Image": "https://5.imimg.com/data5/SELLER/Default/2023/6/320486045/IC/UY/PD/2536559/epos-sennheiser-impact-sc-60-headphone.png" 
+     },
+     {
+        "id": "4",
+        "name": "Iphone X",
+        "price": "1999",
+        "Image": "https://cliktodeal.com/wp-content/uploads/2020/08/apple-iphone-x-a1901-256gb-silver.jpeg" 
+     },
+     {
+        "id": "5",
+        "name": "Samsung Galaxy 23 Ultra",
+        "price": "1099",
+       "Image": "https://images-cdn.ubuy.co.in/6607728c7e93ad305071f122-samsung-galaxy-s23-ultra-5g-sm-s918b-ds.jpg" 
+     },
+     {
+        "id": "6",
+        "name": "OnePlus",
+        "price": "1299",
+        "Image": "https://m.media-amazon.com/images/I/61+Q6Rh3OQL._AC_UF1000,1000_QL80_.jpg" 
+     },
+     {
+        "id": "7",
+        "name": "Macbook Pro",
+        "price": "2999",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF7m6T3VH9Bfgrtja3FTlh8h98_-h9xNN5Q&s"
+     },
+        {
+        "id": "8",
+        "name": "Acar Laptop",
+        "price": "1299",
+        "Image": "https://rukminim2.flixcart.com/image/850/1000/ko0d6kw0/computer/4/p/v/na-thin-and-light-laptop-acer-original-imag2kc4wbhb2ake.jpeg?q=90&crop=false" 
+     }
+   ]
